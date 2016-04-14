@@ -1,0 +1,1 @@
+Add converters here (converting from main models in domain and networking layers to models needed in UI)
